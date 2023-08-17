@@ -2,13 +2,11 @@
 
 Aplicación para identificar relaciones familiares en archivos censales de Argentina
 
-# AVISO
+# Advertencia
 
 Estos fuentes no están documentados para su uso. Se agraceden contribuciones que faciliten su reutilización.
 
-# REQUISITOS DE INSTALACION MANUAL
-
-La instalación manual se puede realizar utilizando al versión compilada en la carpeta /bin.
+# Requisitos
 
 Framework .NET 4 
 La aplicación utiliza el Microsoft Framework .NET 4 (client profile). Esto es un runtime de Microsoft para ejecutar aplicaciones, similar a la virtual machine de Java. Si no estuviera instalado en la PC, podrá descargarse de https://www.microsoft.com/en-us/download/details.aspx?id=17851.
