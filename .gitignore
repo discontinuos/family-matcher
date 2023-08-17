@@ -1,0 +1,8 @@
+/src/bin
+/src/obj
+/src/.vs
+Debug
+Release
+/bin/*.pdb
+*.pdb
+*.suo
